@@ -1,3 +1,1 @@
-# 技術メモ
-- [## Visual Studio](visualStudioPage)
-- [## Azure](AzurePage)
+### ここは技術メモのWikiとして運用していきたい
