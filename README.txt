@@ -1,1 +1,0 @@
-ここはGithubPagesのファイルを置くRipositoryです
